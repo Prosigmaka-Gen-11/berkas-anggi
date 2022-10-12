@@ -1,0 +1,87 @@
+body {
+    margin:0;
+    padding: 0;
+}
+header {
+    background-color: aqua;
+}
+header h1 {
+    margin:0;
+}
+.helo {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.greet {
+    display: inline;
+    font-size: 20px;
+}
+
+.nav-left {
+    float:right;
+    display: inline;
+}
+.cover {
+    width:100%;
+    background-color: blue;
+    text-align: center;
+    position: sticky;
+    top:0;
+}
+.cover h2 {
+    margin:0;
+}
+.wrapper {
+    margin:0 auto;
+    width: 85%;
+}
+
+.title {
+    text-align: center;
+}
+.daftar {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table th,td {
+    outline: solid 1px black;
+    padding:10px;
+}
+.agenda {
+    border: 50px solid green;
+    outline: dashed 2px red;
+    margin-top:20px;
+}
+.catatan {
+    max-width: 500px;
+    position:fixed;
+    width:170px;
+    overflow:auto;
+    height:200px;
+    bottom:25px;
+    right:25px;
+    z-index: 15;
+    background-color: brown;
+    padding:15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.8;
+}
+.catatan {
+    margin:25px;
+    color:aliceblue;
+}
+
+footer {
+    padding-top:25px;
+    height: 150px;
+    background-color: coral;
+}
+.medsos li {
+    list-style: none;
+    margin:15px 0 15px 0;
+}
+.medsos i {
+    margin-right:9px;
+}
+
