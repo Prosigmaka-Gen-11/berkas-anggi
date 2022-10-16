@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .wrapper {
+        @apply h-screen px-48 py-2;
+    }
+    .title {
+        @apply text-center mb-10 text-[3rem] font-overpass font-bold text-[#F26A50];
+    }
+}
+

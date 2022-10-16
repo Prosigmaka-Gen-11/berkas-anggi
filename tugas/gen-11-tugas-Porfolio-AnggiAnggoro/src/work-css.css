@@ -1,0 +1,17 @@
+.job-exp {
+    color:white;
+}
+.job-exp li::marker{
+    color: #EE6F4D;
+    font-weight: bolder;
+}
+.job-exp p,h4,li,ol {
+    margin: 0px;
+    line-height: 1.2;
+}
+.job-exp h4 {
+    color:#EE6F4D;
+}
+.job-exp h1 {
+   color:#EE6F4D;
+}
