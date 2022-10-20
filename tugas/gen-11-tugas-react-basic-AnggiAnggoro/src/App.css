@@ -1,0 +1,14 @@
+.container {
+  width:80%;
+  margin: 0 auto;
+  
+}
+.kenalan {
+  margin-bottom:25px;
+}
+.keinginan input {
+  margin-right: 15px;
+}
+.waktu span {
+  font-weight: bold;
+}
