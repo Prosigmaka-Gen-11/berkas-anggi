@@ -1,0 +1,70 @@
+{
+  "ninja": [
+    {
+      "id": 1,
+      "nama": "Anggi",
+      "usia": "23",
+      "lahir": "1998-11-26",
+      "peringkat": "Kage",
+      "elemen": "angin",
+      "jurus": [
+        "bayangan",
+        "Chidori"
+      ],
+      "alasan": "Pinter"
+    },
+    {
+      "id": 2,
+      "nama": "Anggoro",
+      "usia": "25",
+      "lahir": "1999-11-25",
+      "peringkat": "Jounin",
+      "elemen": "api",
+      "jurus": [
+        "rasengan",
+        "Chidori"
+      ],
+      "alasan": "Mantul"
+    },
+    {
+      "id": 3,
+      "nama": "Owi",
+      "usia": "21",
+      "lahir": "1997-07-11",
+      "peringkat": "Genin",
+      "elemen": "air",
+      "jurus": [
+        "bayangan"
+      ],
+      "alasan": "Lucu"
+    },
+    {
+      "nama": "bortodd",
+      "usia": "11",
+      "lahir": "2022-10-04",
+      "peringkat": "Genin",
+      "elemen": "api",
+      "jurus": [
+        "bayangan",
+        "menghilang"
+      ],
+      "alasan": "ttd",
+      "id": 4
+    },
+    {
+      "nama": "uwo",
+      "usia": "13",
+      "lahir": "2022-10-04",
+      "peringkat": "Kage",
+      "elemen": "angin",
+      "jurus": [
+        "bayangan",
+        "menghilang",
+        "rasengan",
+        "Chidori"
+      ],
+      "alasan": "td",
+      "id": 5
+    }
+  ]
+}
