@@ -6,6 +6,7 @@ export default class Wish extends Component {
     }
     saveInput = (a) => {
         this.setState({input: a.target.value})
+   
     }
     addNewWish = () => {
         let{wish,input} = this.state

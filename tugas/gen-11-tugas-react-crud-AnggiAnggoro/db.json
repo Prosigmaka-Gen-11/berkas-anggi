@@ -1,70 +1,94 @@
 {
-  "ninja": [
+  "kandidat": [
     {
       "id": 1,
-      "nama": "Anggi",
+      "nama": "Anggiddd",
       "usia": "23",
       "lahir": "1998-11-26",
-      "peringkat": "Kage",
-      "elemen": "angin",
-      "jurus": [
-        "bayangan",
-        "Chidori"
+      "jenisKelamin": "pria",
+      "jurusan": "Teknik Infomatika",
+      "keahlian": [
+        "ETAP",
+        "Programming",
+        "AutoCAD"
       ],
-      "alasan": "Pinter"
+      "perkenalan": "Pinter gtg"
     },
     {
-      "id": 2,
-      "nama": "Anggoro",
-      "usia": "25",
-      "lahir": "1999-11-25",
-      "peringkat": "Jounin",
-      "elemen": "api",
-      "jurus": [
-        "rasengan",
-        "Chidori"
-      ],
-      "alasan": "Mantul"
-    },
-    {
-      "id": 3,
-      "nama": "Owi",
-      "usia": "21",
-      "lahir": "1997-07-11",
-      "peringkat": "Genin",
-      "elemen": "air",
-      "jurus": [
-        "bayangan"
-      ],
-      "alasan": "Lucu"
-    },
-    {
-      "nama": "bortodd",
-      "usia": "11",
+      "nama": "Binstar",
+      "usia": "3",
       "lahir": "2022-10-04",
-      "peringkat": "Genin",
-      "elemen": "api",
-      "jurus": [
-        "bayangan",
-        "menghilang"
+      "jenisKelamin": "Pria",
+      "jurusan": "Teknik Elektro",
+      "keahlian": [
+        "AutoCAD",
+        "Analyst",
+        "Automation",
+        "ETAP"
       ],
-      "alasan": "ttd",
-      "id": 4
+      "perkenalan": "hmm",
+      "id": 7
     },
     {
-      "nama": "uwo",
-      "usia": "13",
-      "lahir": "2022-10-04",
-      "peringkat": "Kage",
-      "elemen": "angin",
-      "jurus": [
-        "bayangan",
-        "menghilang",
-        "rasengan",
-        "Chidori"
+      "nama": "Anggi Anggoro",
+      "usia": "26",
+      "lahir": "2022-10-14",
+      "jenisKelamin": "Pria",
+      "jurusan": "Teknik Elektro",
+      "keahlian": [
+        "AutoCAD",
+        "ETAP",
+        "Programming",
+        "Maintenance",
+        "Automation",
+        "Analyst"
       ],
-      "alasan": "td",
-      "id": 5
+      "perkenalan": "Tampan dan berani dan keren keknya",
+      "id": 8
+    },
+    {
+      "nama": "Ridwan Dadu",
+      "usia": "18",
+      "lahir": "2022-10-18",
+      "jenisKelamin": "Wanita",
+      "jurusan": "Teknik Infomatika",
+      "keahlian": [
+        "Automation"
+      ],
+      "perkenalan": "Tidak ada",
+      "id": 9
+    },
+    {
+      "nama": "Gigi",
+      "usia": "31",
+      "lahir": "2022-09-25",
+      "jenisKelamin": "Wanita",
+      "jurusan": "Teknik Sipil",
+      "keahlian": [
+        "AutoCAD",
+        "Analyst",
+        "Maintenance",
+        "Programming",
+        "ETAP"
+      ],
+      "perkenalan": "Tajir",
+      "id": 10
+    },
+    {
+      "nama": "Bedil",
+      "usia": "99",
+      "lahir": "2022-10-03",
+      "jenisKelamin": "Pria",
+      "jurusan": "Teknik Infomatika",
+      "keahlian": [
+        "AutoCAD",
+        "ETAP",
+        "Analyst",
+        "Maintenance",
+        "Automation"
+      ],
+      "perkenalan": "Keren",
+      "id": 11
     }
   ]
 }
