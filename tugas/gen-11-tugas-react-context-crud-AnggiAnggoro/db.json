@@ -1,0 +1,66 @@
+{
+  "siswa": [
+    {
+      "id": 1,
+      "nama": "Anggi Anggoro",
+      "tanggalLahir": "1998-11-26",
+      "domisili": "Dumai",
+      "course": "Electrical"
+    },
+    {
+      "id": 2,
+      "nama": "Pepe",
+      "tanggalLahir": "1999-06-22",
+      "domisili": "Dumai",
+      "course": "Safety"
+    },
+    {
+      "id": 3,
+      "nama": "Owo",
+      "tanggalLahir": "2000-08-12",
+      "domisili": "Jakarta",
+      "course": "Programming"
+    },
+    {
+      "nama": "Devy",
+      "tanggalLahir": "2022-10-19",
+      "domisili": "Dumai",
+      "course": "Safety",
+      "id": 4
+    },
+    {
+      "nama": "anggi",
+      "tanggalLahir": "2022-11-09",
+      "domisili": "Jakarta",
+      "id": 5
+    },
+    {
+      "nama": "Tes",
+      "tanggalLahir": "2022-11-16",
+      "domisili": "tess",
+      "course": "Electrical",
+      "id": 6
+    },
+    {
+      "nama": "Jok",
+      "tanggalLahir": "2022-11-09",
+      "domisili": "Dumai",
+      "course": "Programming",
+      "id": 7
+    },
+    {
+      "nama": "JOko",
+      "tanggalLahir": "2022-11-08",
+      "domisili": "Jakarta",
+      "course": "Programming",
+      "id": 8
+    },
+    {
+      "nama": "tess",
+      "tanggalLahir": "2022-11-08",
+      "domisili": "Kalimantan",
+      "course": "Safety",
+      "id": 9
+    }
+  ]
+}
